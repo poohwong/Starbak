@@ -1,0 +1,328 @@
+
+					fa {
+						font-family: 'FontAwesome';
+					}
+					p {
+						padding: 0;
+						margin: 0;
+					}
+					.overall {
+						width: 750px;
+						height: 1334;
+						background-color: #000;
+						margin: 0 auto;
+					}
+					.overall-benefit {
+						width: 750px;
+						height: 1334;
+						background-color: #fff;
+						margin: 0 auto;
+					}
+					.mycard p {
+						font-size: 40px;
+						color: #fff;
+						padding-top: 25px;
+					}
+					.mycard {
+						width: 750px;
+						height: 100px;
+						text-align: center;
+						background-image: url('image/mcardbg.png');
+
+					}
+					.greenbox {
+						background-image: url('image/greenbg.png');
+						width: 750px;
+						height: 190px; 
+					}
+					.greenbox p {
+						font-size: 40px;
+						color: #64a625;
+						text-align: left;
+						padding-left: 47px;
+						padding-top: 24px;
+					}
+					.start {
+						width: 500px;
+					}
+					.start  {
+						font-size: 26px;
+						color: #fff;
+						padding-left: 47px;
+						padding-top: 10px;
+						margin-top: -50px;
+
+					}
+					start2 {
+						font-size: 70px;
+						color: #64a625;
+						padding-left: 20px;
+
+					}
+					.ymembership {
+						font-size: 22px;
+						color: #a6a9a4;
+						padding-left: 47px;
+						width: 700px;
+					}
+					.btnreward {
+						background-image: url('image/bgbtn.png');
+						width: 190px;
+						height: 60px;
+						text-align: center;
+						float: right;
+						margin-right: 30px;
+						margin-top: -90px;
+						padding-top: 20px;
+						color: #fafafa;
+						font-size: 34px;
+					}
+					.b-box {
+						background-color: #292929;
+						width: 750px;
+						height: 1000px;
+					}
+					.box-card {
+						background-image: url('image/cardm.png');
+						float: right;
+						width: 680px;
+						height: 418px;
+						background-repeat: no-repeat;
+						margin-top: 40px;
+					}
+					.text-amount {
+						font-size: 50px;
+						color: #fff;
+						margin-left: 47px;
+						width: 703px;
+					}
+					.text-asof {
+						font-size: 30px;
+						color: #fff;
+					}
+					.text-regis {
+						color: #6cb23f;
+						font-size: 30px;
+						float: right;
+						margin-top: -40px;
+						padding-right: 60px;
+						text-align: right;
+					}
+					.btn-left {
+						background-image: url('image/bgbtn.png');
+						width: 180px;
+						height: 65px;
+						margin-left: 120px;
+						margin-top: 40px;
+						font-size: 32px;
+						text-align: center;
+						padding-top: 30px;
+					}
+					.btn-right {
+						background-image: url('image/bgbtn.png');
+						width: 180px;
+						height: 65px;
+						float: right;
+						margin-top: -95px;
+						margin-right: 120px;
+						font-size: 32px;
+						text-align: center;
+						padding-top: 30px;
+					}
+					.menu-lise-t-box {
+
+						margin-top: 270px;
+
+					}
+					.menu-lise-t-box-tran {
+						margin-top: 90px;
+					}
+					.icon-menu01 {
+						text-align: center;
+						color: #fff;
+						font-size: 50px;
+						background-color: #000;
+
+					}
+					.text-menu01 {
+						text-align: center;
+						background-color: #000;
+
+					}
+					.li-menu01 {
+						float: left;
+						width: 150px;
+						color: #fff;
+					}
+					.cup-01 {
+						background-image: url('image/coffe.png');
+						width: 52px;
+						height: 72px;
+						margin-left: 115px;
+						margin-top: 30px;
+						color: #fff;
+						width: 750px;
+						background-repeat: no-repeat;
+				
+					}
+					cuptext {
+						color: #fff;
+						margin-left: 70px;
+						font-size: 25px;
+						color: #aaaaaa;
+						font-size: 25px;
+					}
+					.bar-01 {
+						width: 500px;
+						height: 33px;
+						background-color: #b7b7b7;
+						margin-left: 70px;
+						margin-top: 10px;
+					}
+					.in-bar-01 {
+						width: 40px;
+						height: 33px;
+						background-color: #97895c;
+						float: left;
+					}
+					.expires {
+						color: #aaaaaa;
+						text-align: center;
+						margin-top: 10px;
+						margin-left: 100px;
+						font-size: 26px;
+					}
+					.filter-active {
+						background-color: #000;
+						color: #fff;
+						width: 290px;
+						height: 35px;
+						margin: 0 auto;
+						text-align: center;
+						padding-top: 15px;
+						margin-top: 45px;
+					}
+					.youare {
+						text-align: center;
+						color: #aaaaaa;
+						font-size: 27px;
+						margin-top: 40px;
+					}
+					.line {
+						background-image: url('image/line.png');
+						width: 750px;
+						height: 4px;
+						margin-top: 30px;
+					}
+					.line2 {
+						background-image: url('image/line.png');
+						width: 600px;
+						height: 4px;
+						margin: 0 auto;
+					}
+					.acup {
+						background-image: url('image/acup.png');
+						width: 102px;
+						height: 201px;
+						margin: 0 auto;
+						margin-top: 67px;
+					}
+					.youdon {
+						text-align: center;
+						color: #00704a;
+						font-size: 34px;
+						margin-top: 30px;
+						margin-bottom: 30px;
+					}
+					.text-collect {
+						color: #8a8a8a;
+						margin-top:30px;
+						margin-left: 90px;
+						font-size: 26px;
+					}
+					.overall-tranaction {
+						width: 750px;
+						height: 1334px;
+						background-color: #313131;
+						margin: 0 auto;
+					}
+					.head-tranaction {	
+						width: 750px;
+						height: 75px;
+						text-align: center;
+						background-image: url('image/mcardbg.png');
+						font-size: 40px;
+						color: #fff;
+						padding-top: 25px;		
+					}
+					.box-card01 {
+						background-image: url('image/card-02.png');
+						width: 310px;
+						height: 194px;
+						margin-left: 45px;
+						margin-top: 50px;
+					}
+					.num-text {
+						color: #66a63d;
+						font-size: 28px;
+						float: right;
+						margin-top: -140px;
+						margin-right: 90px;
+					}
+					numtext {
+						font-size: 60px;
+						color: #fff;
+					}
+					.display-text{
+						color: #66a63d;
+						font-size: 30px;
+						text-align: center;
+						margin-top: 20px;
+					}
+					.box-text-all {
+						width: 710px;
+						height: 750px;
+						background-color: #fff;
+						margin: 0 auto;
+						margin-top: 20px;
+					}
+					.text-display-inbox{
+						width: 710px;
+						height: 95px;
+					}
+					.inbox-01{
+						width: 235px;
+						height: 75px;
+						color: #555555;
+						float: left;
+						text-align: center;
+						padding-top: 20px;
+						font-size: 50px;
+						margin-left: 20px;
+					}
+					.inbox-02{
+						width: 100px;
+						height: 65px;
+						color: #555555;
+						float: left;
+						text-align: center;
+						padding-top: 30px;
+						font-size: 34px;
+						margin-left: 20px;
+					}
+					.inbox-03{
+						width: 290px;
+						height: 75px;
+						color: #555555;
+						float: right;
+						text-align: right;
+						padding-top: 20px;
+						font-size: 50px;
+						color: #cd163f;
+						margin-right: 20px;
+					}
+					colort {
+						color: #6cb33f;
+					}
+
+
